@@ -2,7 +2,6 @@
 *.o
 *.a
 *.exe
-linha-de-comando
 
 # Diretórios gerados pela compilação
 bin/
